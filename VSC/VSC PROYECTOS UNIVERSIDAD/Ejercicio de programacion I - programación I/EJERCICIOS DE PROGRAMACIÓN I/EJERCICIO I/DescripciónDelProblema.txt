@@ -1,0 +1,13 @@
+EJERCICIO DE PROGRAMACIÓN
+Elaborado por: AMY MELISSA GOYES ARMAS
+OBJETIVOS PROPUESTO DE LA CONSIGNA: 
+Reforzar el conocimiento adquirido durante la materia de Algoritmos sobre programación en C.
+INDICACIONES:
+Descripción del problema: Un pequeño comerciante necesita un programa en C para gestionar la venta de un único producto en su tienda. El programa debe permitirle:
+•	Registrar los datos del producto: ID, nombre, cantidad en stock y precio unitario.
+•	Vender unidades del producto: El usuario debe ingresar cuántas unidades desea vender y el programa debe verificar si hay suficiente stock antes de realizar la venta.
+•	Reabastecer el producto: Permitir al usuario agregar más unidades al stock.
+•	Consultar información actualizada del producto.
+•	Calcular y mostrar las ganancias obtenidas hasta el momento a partir de las ventas realizadas.
+•	Salir del programa.
+•	Permitir al usuario ingresar un descuento al precio del producto en cada venta.
