@@ -1,0 +1,14 @@
+Requerimientos funcionales del programa:
+1.	El número de estudiantes será 5 y de asignaturas 3.
+2.	El programa debe pedir las calificaciones de cada estudiante en cada asignatura.
+3.	Validar que las calificaciones ingresadas estén en el rango de 0 a 10.
+4.	El programa debe ser capaz de realizar las siguientes tareas:
+o	Calcular el promedio de calificaciones para cada estudiante.
+o	Calcular el promedio por asignatura.
+o	Encontrar la calificación más alta y baja por estudiante y por asignatura.
+o	Determinar cuántos estudiantes aprobaron o reprobaron cada asignatura. (Nota aprobatoria ≥ 6).
+El programa debe mostrar:
+•	El promedio de calificaciones por estudiante.
+•	El promedio de calificaciones por asignatura.
+•	La calificación más alta y baja por estudiante y por asignatura.
+•	El número de estudiantes aprobados y reprobados por asignatura.
