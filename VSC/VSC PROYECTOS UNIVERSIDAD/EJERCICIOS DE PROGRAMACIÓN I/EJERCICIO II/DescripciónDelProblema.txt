@@ -1,3 +1,5 @@
+EJERCICIO DE PROGRAMACIÓN
+Elaborado por: AMY MELISSA GOYES ARMAS
 Requerimientos funcionales del programa:
 1.	El número de estudiantes será 5 y de asignaturas 3.
 2.	El programa debe pedir las calificaciones de cada estudiante en cada asignatura.
