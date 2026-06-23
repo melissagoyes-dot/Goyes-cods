@@ -1,0 +1,16 @@
+Crear un programa para un encargado de diseñar un programa en lenguaje C para una pequeña biblioteca que desea gestionar la información 
+de sus libros y facilitar las consultas de los usuarios.
+Requerimientos:
+•	Registrar libros en la biblioteca. Cada libro debe incluir:
+1.	ID del libro (entero único). 
+2.	Título (cadena de hasta 100 caracteres).
+3.	Autor (cadena de hasta 50 caracteres).
+4.	Año de publicación (entero). Estado (cadena: "Disponible" o "Prestado").
+•	Mostrar la lista completa de libros en formato tabla.
+•	Buscar un libro por título o ID y mostrar toda su información.
+•	Actualizar el estado de un libro (de "Disponible" a "Prestado" o viceversa).
+•	Eliminar libro
+•	No se pueden agregar más de 10 libros.
+•	El programa debe usar estructuras.
+•	El código de producto debe ser único.
+•	Validar entradas del usuario.
